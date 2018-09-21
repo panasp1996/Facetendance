@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_profile"
+        android:title="@string/profile">
+    </item>
+
+    <item
+        android:id="@+id/nav_check_attendance"
+        android:title="@string/check_attendance">
+    </item>
+
+    <item
+        android:id="@+id/nav_class_lookup"
+        android:title="@string/class_look_up">
+    </item>
+
+    <item
+        android:id="@+id/nav_course_manage"
+        android:title="@string/course_manage">
+    </item>
+
+    <item
+        android:id="@+id/nav_support"
+        android:title="@string/support">
+    </item>
+
+    <item
+        android:id="@+id/nav_term_service"
+        android:title="@string/term_service">
+    </item>
+
+    <item
+        android:id="@+id/nav_sign_out"
+        android:title="@string/sign_out">
+    </item>
+
+</menu>

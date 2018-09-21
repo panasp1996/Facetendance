@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1031570422961",
+    "firebase_url": "https://facetendence.firebaseio.com",
+    "project_id": "facetendence",
+    "storage_bucket": "facetendence.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031570422961:android:d63034b6ec6a49fe",
+        "android_client_info": {
+          "package_name": "com.example.panaspornkitipong.facetendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031570422961-ebtfkbq6e6at7tm2kgkr5bp6mfhu7id4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.panaspornkitipong.facetendance",
+            "certificate_hash": "eb55271d530f73668343d6000886c0647ab5e664"
+          }
+        },
+        {
+          "client_id": "1031570422961-6iljg3qtalkue0p2hj70d5mnm9ncucc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4ifK98cVILmAABo2o9qidA8dqut5ZuUY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031570422961-6iljg3qtalkue0p2hj70d5mnm9ncucc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
